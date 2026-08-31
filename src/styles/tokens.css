@@ -1,0 +1,19 @@
+:root {
+  --bg: #14110f;
+  --bg-elev: #1c1815;
+  --bg-elev-2: #262019;
+  --border: #332c24;
+  --border-strong: #4a4033;
+  --text: #f3ecdf;
+  --text-dim: #a79c8c;
+  --text-faint: #6e6455;
+  --accent: #c8862b;
+  --accent-bright: #e3a94a;
+  --danger: #c1473a;
+  --warn: #c99a3c;
+  --ok: #74996a;
+  --radius: 14px;
+  --font-display: 'Frank Ruhl Libre', 'Times New Roman', serif;
+  --font-body: 'Rubik', 'Segoe UI', sans-serif;
+  --bottom-nav-h: 64px;
+}

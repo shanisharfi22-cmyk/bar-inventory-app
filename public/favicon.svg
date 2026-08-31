@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#14110f"/>
+  <rect width="512" height="512" rx="96" fill="none" stroke="#332c24" stroke-width="4"/>
+  <g transform="translate(256 266)">
+    <path d="M-70 -180 H70 V-120 C70 -100 130 -90 130 -20 V190 C130 218 108 240 80 240 H-80 C-108 240 -130 218 -130 190 V-20 C-130 -90 -70 -100 -70 -120 Z"
+          fill="#1c1815" stroke="#4a4033" stroke-width="6"/>
+    <path d="M-130 20 C-130 -20 -70 -40 -70 -90 L-70 -180 H70 V-90 C70 -40 130 -20 130 20 V190 C130 218 108 240 80 240 H-80 C-108 240 -130 218 -130 190 Z"
+          fill="none"/>
+    <clipPath id="bottleClip">
+      <path d="M-70 -180 H70 V-120 C70 -100 130 -90 130 -20 V190 C130 218 108 240 80 240 H-80 C-108 240 -130 218 -130 190 V-20 C-130 -90 -70 -100 -70 -120 Z"/>
+    </clipPath>
+    <rect x="-140" y="30" width="280" height="220" fill="#c8862b" clip-path="url(#bottleClip)"/>
+    <rect x="-32" y="-230" width="64" height="56" rx="10" fill="#4a4033"/>
+  </g>
+</svg>
